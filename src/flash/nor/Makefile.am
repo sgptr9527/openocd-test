@@ -90,3 +90,6 @@ NORHEADERS = \
 	%D%/stm32l4x.h \
 	%D%/stmqspi.h \
 	%D%/msp432.h
+# Gigadevice begin
+include %D%/gd.am
+# Gigadevice end
